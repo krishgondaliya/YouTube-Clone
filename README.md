@@ -14,8 +14,8 @@ This is a YouTube clone application built with React that allows users to search
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/youtube-clone.git
-    cd youtube-clone
+    git clone https://github.com/krishgondaliya/YouTube-Clone.git
+    cd YouTube-Clone
     ```
 
 2. Install the dependencies:
